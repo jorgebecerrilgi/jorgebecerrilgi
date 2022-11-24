@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @jorgebecerrilgi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-jorgebecerrilgi/jorgebecerrilgi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 I’m Jorge Becerril, a CS student from Mexico<br>
+👀 I’m interested in 🌐Front-End & 🕹️Game Development<br>
+🌐 JS, React, ReactNative<br>
+🕹️ C#, Unity, GodotEngine, GDscript, C++<br>
+📫 jorgebecerrilgm@gmail.com
